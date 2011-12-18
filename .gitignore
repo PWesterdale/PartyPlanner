@@ -8,3 +8,5 @@ fuel/app/config/production/db.php
 .DS_Store
 
 public/index.php
+
+fuel/packages/facebook/config/fb.php
